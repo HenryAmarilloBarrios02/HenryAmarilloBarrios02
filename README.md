@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![NodePing status](https://img.shields.io/nodeping/status/:checkUuid)
+
 <!--
 **HenryAmarilloBarrios02/HenryAmarilloBarrios02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
