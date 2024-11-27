@@ -31,6 +31,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23e44c24.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS%20-%2364349c.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-%23f24e1e.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
 
@@ -52,7 +53,6 @@
 ![npm](https://img.shields.io/badge/npm-%23d03c34.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-%233cb24c.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-%23f24e1e.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Data Analysis
 
