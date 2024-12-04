@@ -8,6 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23347bc4.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%23346c94.svg?style=for-the-badge&logo=python&logoColor=fcc43c)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js%20-%2341893f.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
